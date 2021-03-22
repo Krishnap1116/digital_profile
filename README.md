@@ -15,7 +15,7 @@
     * Item 3b
     
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://images.app.goo.gl/EM47e8gquaQSTadq6)
+Format: ![Alt Text](https://github.com/logos)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
